@@ -184,6 +184,6 @@ MIT License — free to use, learn from, and build upon.
 
 Built with curiosity by **[Sai Gopi Kavarthapu]**
 - LinkedIn: [https://www.linkedin.com/in/nagasaigopi/]
-- GitHub: [@SaiGopiKNV]
+- GitHub: [@SaiGopiKNV](https://github.com/SaiGopiKNV)
 
 > ⭐ If this helped you learn something, a star on the repo means a lot!
